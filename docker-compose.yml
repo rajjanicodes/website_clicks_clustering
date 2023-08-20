@@ -1,0 +1,39 @@
+version: '3.7'
+
+services:
+  web:
+    build:
+      context: .
+    networks:
+      - testnet
+    ports:
+      - 8004:80
+    volumes:
+      - ./app:/app
+    environment:
+      - POSTGRES_USER=fdml
+      - POSTGRES_PASSWORD=fdml1234
+      - POSTGRES_DB=click_db
+      - POSTGRES_PORT=5432
+      - POSTGRES_HOST=postgres_db
+
+  postgres_db:
+    image: postgres
+    restart: always
+    ports:
+      - 6433:5432
+    expose:
+      - 5432
+    shm_size: 1gb
+    networks:
+      - testnet
+    environment:
+      - POSTGRES_USER=fdml
+      - POSTGRES_PASSWORD=fdml1234
+      - POSTGRES_DB=click_db
+      - POSTGRES_PORT=5432
+      - POSTGRES_HOST=postgres_db
+
+networks:
+  testnet:
+    name: test_network

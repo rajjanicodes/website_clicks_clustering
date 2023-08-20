@@ -1,0 +1,3480 @@
+{
+  "sequence": [
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.245687725284079,
+          "y": 0.7274819092032907
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07744240956204734,
+          "y": 0.2018477540910551
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.7868487749184311,
+          "y": 0.6736012048985611
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5286675459080656,
+          "y": 0.5076802575347096
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6515378512853149,
+          "y": 0.31160427431807064
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8136277406599918,
+          "y": 0.681155402896915
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6560727205053458,
+          "y": 0.6777874066638649
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.06632679968674729,
+          "y": 0.8289175006447886
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8191387264967557,
+          "y": 0.5608771310647903
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6821827904363729,
+          "y": 0.818563427124749
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.0505398982575912,
+          "y": 0.16848658473279798
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.20769324070938908,
+          "y": 0.8118132364392285
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6680099865761402,
+          "y": 0.30098184918221377
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.06794591147319744,
+          "y": 0.8400677259907509
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6735380426230476,
+          "y": 0.6691844281763377
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.543995251155495,
+          "y": 0.7134535773603459
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.0898297161870926,
+          "y": 0.20685566541168832
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8340791479912771,
+          "y": 0.5634251403987907
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.32343652943341605,
+          "y": 0.01207373686620794
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.258800615991976,
+          "y": 0.6287129680606397
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.662895539009945,
+          "y": 0.31980740998204293
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.03412301094413017,
+          "y": 0.5345180522078019
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.1601988889163387,
+          "y": 0.09529690378011102
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07666240643458792,
+          "y": 0.8319738806476848
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6909197206251478,
+          "y": 0.5707305039624082
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8304906557561511,
+          "y": 0.08011322505074384
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6940270367310375,
+          "y": 0.5633319894645163
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6597203497252317,
+          "y": 0.31558113712511765
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.06676803733192775,
+          "y": 0.5616867736429818
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6718346854410985,
+          "y": 0.31584948396773305
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5882130272465358,
+          "y": 0.17517425873623305
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.003400960033454692,
+          "y": 0.9978165904260818
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.44322167837158444,
+          "y": 0.8143694690198513
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.7948896876399743,
+          "y": 0.677281299750071
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5460545490186576,
+          "y": 0.7090436912546925
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.689070765900367,
+          "y": 0.8102279748667361
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.08667016840953613,
+          "y": 0.1998394163823516
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5640268947341811,
+          "y": 0.7219264615287774
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.08139063811532114,
+          "y": 0.8404526715934232
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.42839855756386613,
+          "y": 0.8081229679310497
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6722184785978483,
+          "y": 0.8053811659529976
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07721503836437697,
+          "y": 0.20488656075956244
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5543814858218937,
+          "y": 0.537135809000845
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5440690500314354,
+          "y": 0.714700646651199
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5713844630624435,
+          "y": 0.5426644265290992
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5829558569661011,
+          "y": 0.5456558832841945
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.048817465253178316,
+          "y": 0.48741517529449274
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07575005589402777,
+          "y": 0.5691046232241236
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.08018495963046332,
+          "y": 0.8164254263561341
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8227442324605229,
+          "y": 0.069468486234087
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5895606334845754,
+          "y": 0.1734688330758649
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.4408964330708257,
+          "y": 0.792946558139894
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.16828430245261075,
+          "y": 0.3127395547789908
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": true
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.676026293260706,
+          "y": 0.8003026121578046
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07518529632623229,
+          "y": 0.21081759261102131
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.812673046553334,
+          "y": 0.0783403293770888
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.45619724982191673,
+          "y": 0.8046610040968736
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6740722788523702,
+          "y": 0.8324007500745019
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.4475259504800052,
+          "y": 0.8072252397545345
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8285136393669258,
+          "y": 0.564691246726808
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6800105827692718,
+          "y": 0.6654261221795869
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5693130432300522,
+          "y": 0.16512597985017213
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8321055357290166,
+          "y": 0.5627375202937956
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8479291124979631,
+          "y": 0.5617425734810073
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6872466580189465,
+          "y": 0.5911389597337964
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6814817128894214,
+          "y": 0.6608297823553948
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.21319412349075248,
+          "y": 0.8068967503793291
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.086234980316705,
+          "y": 0.21154809097329724
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5981435349447918,
+          "y": 0.7467481634251857
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.9749101963654646,
+          "y": 0.9774428074564576
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8938891148819849,
+          "y": 0.056349929960976874
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6695730989158403,
+          "y": 0.3120127815018652
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6827232959095763,
+          "y": 0.678181040774113
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5720789197692523,
+          "y": 0.5348393149045841
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6946466532696063,
+          "y": 0.5723710335964906
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5784117151016882,
+          "y": 0.16812813799994752
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07239032685568207,
+          "y": 0.5740833533662165
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5540956342878901,
+          "y": 0.7058622896033314
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6779852097156499,
+          "y": 0.8172594855508516
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.16617760251827407,
+          "y": 0.295278616939702
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8317941962733352,
+          "y": 0.5657213648089991
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.4283760775891623,
+          "y": 0.9471636796954371
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5341180287796592,
+          "y": 0.5561043077666894
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6757576441445188,
+          "y": 0.6740224471713829
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6943247719292139,
+          "y": 0.5726386028936513
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.062258878444552676,
+          "y": 0.20305587071913594
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6779739126234409,
+          "y": 0.8041260744142258
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5710075346435632,
+          "y": 0.5412256115574099
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.4830012144996437,
+          "y": 0.49716160517451025
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5556226396377251,
+          "y": 0.7096187563015485
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8322611336554515,
+          "y": 0.5566428712708577
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6817805965178018,
+          "y": 0.8179249886299741
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6816615737874081,
+          "y": 0.5709462503515402
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.2245744773106516,
+          "y": 0.7649932197161938
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8206695582133271,
+          "y": 0.08876126866108633
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6650555114465131,
+          "y": 0.3151577513146647
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5613658515733535,
+          "y": 0.7100066479444843
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6171289089246679,
+          "y": 0.5756205017764826
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6622654804747806,
+          "y": 0.8165263016435267
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5595706085504851,
+          "y": 0.17973781924051827
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.679112696716013,
+          "y": 0.8204500325726751
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.22747790718692373,
+          "y": 0.5569404398011781
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.05336975423178392,
+          "y": 0.5184957413037377
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.4462114120362177,
+          "y": 0.7927465252397543
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.811210449700303,
+          "y": 0.689139550370024
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.05744811564700291,
+          "y": 0.564050054049707
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5863701780333105,
+          "y": 0.1646299703359198
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5620456523675721,
+          "y": 0.5371845778078147
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5539449837602104,
+          "y": 0.7059071485767978
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.09263615704095426,
+          "y": 0.20459319254630082
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8435248481539601,
+          "y": 0.07251963624606862
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.08843570168068585,
+          "y": 0.8396744965235924
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.17089364288247114,
+          "y": 0.29366877744298403
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07075736838088804,
+          "y": 0.8318179564408258
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8070031226186803,
+          "y": 0.6740387948510564
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.1716453364418095,
+          "y": 0.3008836024158769
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8338266313273791,
+          "y": 0.5641380275579736
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5822384715373403,
+          "y": 0.18970651987778436
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5376351313423986,
+          "y": 0.699810245429743
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6951416328320663,
+          "y": 0.7350806776613482
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.42405149344632137,
+          "y": 0.8091787872958648
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6733024734210227,
+          "y": 0.6576301988148785
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.588008009741179,
+          "y": 0.5406903477894082
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8120098445373429,
+          "y": 0.06945475705699578
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8147293661350423,
+          "y": 0.5643892244560168
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8073221292798329,
+          "y": 0.08090791215382331
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.9722837537229762,
+          "y": 0.3031133923788195
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8005165426744217,
+          "y": 0.6804355915448822
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6830741688543119,
+          "y": 0.2708881553680913
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.19414996205289273,
+          "y": 0.8190990556682616
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.20549115466785645,
+          "y": 0.8071295487836738
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.06684035497178774,
+          "y": 0.5760641752331536
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.16238710715882554,
+          "y": 0.29988111162343706
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07902236601939155,
+          "y": 0.5545748885396584
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.7621399347681713,
+          "y": 0.09660882963009776
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07334565660717741,
+          "y": 0.5579924272532671
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6682357642856177,
+          "y": 0.6617455486443953
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8013234489728114,
+          "y": 0.6721530044114331
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6720475103310166,
+          "y": 0.6635095506699533
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8318510011001686,
+          "y": 0.08009978824150521
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8262071557697425,
+          "y": 0.5630529088045708
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6662701943859213,
+          "y": 0.6538559062186065
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5819116061919261,
+          "y": 0.1674634539342301
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5980405581889378,
+          "y": 0.2539256871929725
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.06535251330518625,
+          "y": 0.20416680148471822
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.3597970365603823,
+          "y": 0.8093046290051592
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.20645843798346566,
+          "y": 0.7893691062091578
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.43856111568285233,
+          "y": 0.8039738144420827
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.4481004130805621,
+          "y": 0.785835999868291
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.20486587013516044,
+          "y": 0.8055732381582749
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5048026125071793,
+          "y": 0.8724455901403493
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6675695774746324,
+          "y": 0.3190524727123791
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.19799689392185674,
+          "y": 0.8242872574127099
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.7459495565696812,
+          "y": 0.031895952374278336
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.576090888375251,
+          "y": 0.18251638374822288
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.08898787706765132,
+          "y": 0.6341600828515029
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6725872877077175,
+          "y": 0.3180261813401478
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.1662103820857168,
+          "y": 0.3045603323179841
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.20209330171231107,
+          "y": 0.8066623355773678
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.565300432870143,
+          "y": 0.5420593367886053
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.17478926617066207,
+          "y": 0.30405542236546523
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.08095089009967958,
+          "y": 0.8304487679911633
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.803173845388535,
+          "y": 0.6783429262898483
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.3885540910596089,
+          "y": 0.5174245121114043
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.22264371270527208,
+          "y": 0.8068295752368873
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.1960084082938363,
+          "y": 0.8099584624937476
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.06666129771602758,
+          "y": 0.5739643247437315
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07450649974552831,
+          "y": 0.5706338846744199
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07422709064659402,
+          "y": 0.8157555299901615
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.06774036403825269,
+          "y": 0.5763940996793802
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.06429654998736126,
+          "y": 0.2163349483451117
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5371483026808239,
+          "y": 0.23297394492075163
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.16361680528959627,
+          "y": 0.3078849927799976
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.08272022325325995,
+          "y": 0.8439632272811332
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.7365318015410414,
+          "y": 0.2079321328668443
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.24506015416246496,
+          "y": 0.934541583640273
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8238507472537362,
+          "y": 0.06585485223971824
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.22041156392677017,
+          "y": 0.797868916150633
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 7,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.1683502366446437,
+          "y": 0.295133349272537
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5488257220436559,
+          "y": 0.6962549648425975
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6791306493028623,
+          "y": 0.6532527985160739
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 3,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6955565889466351,
+          "y": 0.5687407428173906
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.0931334977489296,
+          "y": 0.8312819390311788
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 4,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5789492929351008,
+          "y": 0.7825961245069518
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.7625404672190471,
+          "y": 0.35739879183340173
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8309628410945766,
+          "y": 0.5612338871126065
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 5,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6907318245049332,
+          "y": 0.5700335849045214
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.44176145642148673,
+          "y": 0.7954205165314684
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8209616604790282,
+          "y": 0.09499852371524586
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.7948025348941982,
+          "y": 0.6806035114614677
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.44797640715425985,
+          "y": 0.8009370426322339
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 13,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6999128720537862,
+          "y": 0.8129062953198015
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 6,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5751645100456487,
+          "y": 0.5470017227721016
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.790225704264301,
+          "y": 0.6828093961462092
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07820475890413836,
+          "y": 0.20674231442083796
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 0,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6973222863682609,
+          "y": 0.5693765046520979
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.07205306357426004,
+          "y": 0.5674034068782449
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 11,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6929210614276066,
+          "y": 0.5912995241281548
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.17242418578726365,
+          "y": 0.29542028157768624
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6784615756969361,
+          "y": 0.3118541492216741
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8054373467534931,
+          "y": 0.6879755204010863
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6274686421645482,
+          "y": 0.49959982966947347
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.820689958563472,
+          "y": 0.6761769521653419
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 1,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5738778754097192,
+          "y": 0.1785538375806626
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.402947803550193,
+          "y": 0.6649314651929789
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.9057404969735281,
+          "y": 0.9731118226114555
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5878424337126344,
+          "y": 0.5418532906698859
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6612294848559851,
+          "y": 0.3343645291644134
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 2,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8412106255479401,
+          "y": 0.08435679878422245
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.41165538132484125,
+          "y": 0.5531836506545035
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.8332571871533455,
+          "y": 0.09704276959845509
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 10,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.45923810124803877,
+          "y": 0.9870255257044359
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.9619473782352929,
+          "y": 0.7259218460935155
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.556323135921297,
+          "y": 0.7066709892973431
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 8,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.17263264063820663,
+          "y": 0.29566661918597686
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 15,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.46578312540081745,
+          "y": 0.24152081601726272
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.5745695716030749,
+          "y": 0.17716666568489486
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 12,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.6974665012163166,
+          "y": 0.5752975109293914
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 9,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.553078190329087,
+          "y": 0.5495102284465934
+        }
+      },
+      "req_name": "save_click_and_predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": 14,
+        "is_new": false
+      },
+      "method": "POST"
+    },
+    {
+      "page_id": "1",
+      "body": {
+        "coordinates": {
+          "x": 0.9565958669294048,
+          "y": 0.8460036796875191
+        }
+      },
+      "req_name": "predict_cluster",
+      "response_code": 200,
+      "response_data": {
+        "cluster_idx": null
+      },
+      "method": "POST"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+EPS = 0.3
+MIN_SAMPLES = 2
