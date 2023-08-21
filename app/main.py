@@ -59,11 +59,15 @@ async def save_click_and_predict_cluster_api(request: NewClickRequest):
     #       from it. This is used to know the number of clusters already
     #       assigned. When running the code with an empty db, fetch will
     #       return an empty list, thus max function will not
-    #       work. So, assigning 0 manually.
+    #       work. So, assigning -1 manually, which will become 0 after
+    #       incrementing.
     try:
         latest_cluster_id = max(table_functions.fetch("cluster_id"))
     except ValueError:
-        latest_cluster_id = 0
+        latest_cluster_id = -1
+    except Exception as e:
+        print(e)
+        return {"Error": "Check Logs for Error."}
 
     previous_coordinates = np.column_stack((previous_x, previous_y))
     coordinates = np.concatenate(
@@ -80,8 +84,8 @@ async def save_click_and_predict_cluster_api(request: NewClickRequest):
     #       Call it the cluster_id of current_coordinates
     #       Increment the latest_cluster_id by 1.
     if cluster_id == -1:
-        cluster_id = latest_cluster_id
         latest_cluster_id += 1
+        cluster_id = latest_cluster_id
         is_new = True
 
     # --->  Store into the table.
