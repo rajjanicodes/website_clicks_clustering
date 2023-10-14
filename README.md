@@ -1,6 +1,7 @@
 # Website Click Clustering
 
 This is a FastAPI app to cluster the clicks made on a website. 
+![clicks](clicks.jpg)
 
 ## Problem Statement:
 
